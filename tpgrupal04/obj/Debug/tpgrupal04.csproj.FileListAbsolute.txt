@@ -1,0 +1,11 @@
+C:\Users\etche\source\repos\tpgrupal04\bin\Debug\tpgrupal04.exe.config
+C:\Users\etche\source\repos\tpgrupal04\bin\Debug\tpgrupal04.exe
+C:\Users\etche\source\repos\tpgrupal04\bin\Debug\tpgrupal04.pdb
+C:\Users\etche\source\repos\tpgrupal04\obj\Debug\tpgrupal04.csproj.AssemblyReference.cache
+C:\Users\etche\source\repos\tpgrupal04\obj\Debug\tpgrupal04.csproj.SuggestedBindingRedirects.cache
+C:\Users\etche\source\repos\tpgrupal04\obj\Debug\tpgrupal04.formpunto4.resources
+C:\Users\etche\source\repos\tpgrupal04\obj\Debug\tpgrupal04.Properties.Resources.resources
+C:\Users\etche\source\repos\tpgrupal04\obj\Debug\tpgrupal04.csproj.GenerateResource.cache
+C:\Users\etche\source\repos\tpgrupal04\obj\Debug\tpgrupal04.csproj.CoreCompileInputs.cache
+C:\Users\etche\source\repos\tpgrupal04\obj\Debug\tpgrupal04.exe
+C:\Users\etche\source\repos\tpgrupal04\obj\Debug\tpgrupal04.pdb
