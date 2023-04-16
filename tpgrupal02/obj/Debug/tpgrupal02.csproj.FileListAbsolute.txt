@@ -1,0 +1,11 @@
+C:\Users\etche\source\repos\tpgrupal02\bin\Debug\tpgrupal02.exe.config
+C:\Users\etche\source\repos\tpgrupal02\bin\Debug\tpgrupal02.exe
+C:\Users\etche\source\repos\tpgrupal02\bin\Debug\tpgrupal02.pdb
+C:\Users\etche\source\repos\tpgrupal02\obj\Debug\tpgrupal02.csproj.AssemblyReference.cache
+C:\Users\etche\source\repos\tpgrupal02\obj\Debug\tpgrupal02.csproj.SuggestedBindingRedirects.cache
+C:\Users\etche\source\repos\tpgrupal02\obj\Debug\tpgrupal02.formulariopunto2.resources
+C:\Users\etche\source\repos\tpgrupal02\obj\Debug\tpgrupal02.Properties.Resources.resources
+C:\Users\etche\source\repos\tpgrupal02\obj\Debug\tpgrupal02.csproj.GenerateResource.cache
+C:\Users\etche\source\repos\tpgrupal02\obj\Debug\tpgrupal02.csproj.CoreCompileInputs.cache
+C:\Users\etche\source\repos\tpgrupal02\obj\Debug\tpgrupal02.exe
+C:\Users\etche\source\repos\tpgrupal02\obj\Debug\tpgrupal02.pdb
